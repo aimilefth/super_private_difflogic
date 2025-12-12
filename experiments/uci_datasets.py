@@ -8,7 +8,7 @@ from sklearn.model_selection import train_test_split
 
 class UCIDataset(Dataset):
     def __init__(self, root, split='train', download=False):
-        super(UCIDataset, self).__init__()
+        super(UCIDataset, self).__init__()dsadasd
         self.root = root
         self.split = split
 
