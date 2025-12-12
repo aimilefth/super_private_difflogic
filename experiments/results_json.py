@@ -12,7 +12,7 @@ class ResultsJSON(object):
 
         self.init_time = time.time()
         self.save_time = None
-        self.total_time = None
+        self.total_time = Nonedasdasdasd ad 
 
         self.args = None
 
